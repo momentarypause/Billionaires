@@ -1,0 +1,101 @@
+RANK,NAME,NET WORTH,AGE,SOURCE,COUNTRY/TERRITORY
+1.,Bernard Arnault & family,$176.6 B,73,LVMH,France
+2.,Elon Musk,$146.5 B,51,"Tesla, SpaceX",United States
+3.,Gautam Adani,$116.7 B,60,"infrastructure, commodities",India
+4.,Jeff Bezos,$108.5 B,58,Amazon,United States
+5.,Warren Buffett,$106.3 B,92,Berkshire Hathaway,United States
+6.,Bill Gates,$103.5 B,67,Microsoft,United States
+7.,Larry Ellison,$101.4 B,78,Oracle,United States
+8.,Mukesh Ambani,$87.9 B,65,diversified,India
+9.,Carlos Slim Helu & family,$83.6 B,82,telecom,Mexico
+10.,Steve Ballmer,$78.2 B,66,Microsoft,United States
+11.,Larry Page,$78.2 B,49,Google,United States
+12.,Michael Bloomberg,$76.8 B,80,Bloomberg LP,United States
+13.,Sergey Brin,$75.0 B,49,Google,United States
+14.,Francoise Bettencourt Meyers & family,$71.4 B,69,L'Oréal,France
+15.,Zhong Shanshan,$67.8 B,68,"beverages, pharmaceuticals",China
+16.,Amancio Ortega,$64.0 B,86,Zara,Spain
+17.,Jim Walton,$61.5 B,74,Walmart,United States
+18.,Rob Walton,$60.2 B,78,Walmart,United States
+19.,Alice Walton,$59.3 B,73,Walmart,United States
+20.,Julia Koch & family,$58.2 B,60,Koch Industries,United States
+20.,Charles Koch,$58.2 B,87,Koch Industries,United States
+22.,David Thomson & family,$52.3 B,65,media,Canada
+23.,Michael Dell,$51.6 B,57,Dell Technologies,United States
+24.,Zhang Yiming,$49.5 B,38,TikTok,China
+25.,Phil Knight & family,$44.8 B,84,Nike,United States
+26.,Mark Zuckerberg,$43.0 B,38,Facebook,United States
+27.,Rodolphe Saadé & family,$41.4 B,52,shipping,France
+28.,Jacqueline Mars,$39.0 B,83,"candy, pet food",United States
+29.,John Mars,$39.0 B,87,"candy, pet food",United States
+30.,Giovanni Ferrero,$35.0 B,58,"Nutella, chocolates",Italy
+31.,Ma Huateng,$35.0 B,51,internet media,China
+32.,Beate Heister & Karl Albrecht Jr. & family,$35.0 B,,supermarkets,Germany
+33.,François Pinault & family,$33.7 B,86,luxury goods,France
+34.,Len Blavatnik,$33.7 B,65,"music, chemicals",United States
+35.,Dieter Schwarz,$33.6 B,83,retail,Germany
+36.,Li Ka-shing,$33.6,94,diversified,Hong Kong
+37.,Gerard Wertheimer,$32.8 B,71,Chanel,France
+37.,Alain Wertheimer,$32.8 B,74,Chanel,France
+39.,Robin Zeng,$32.7 B,53,batteries,Hong Kong
+40.,Ken Griffin,$31.3 B,54,hedge funds,United States
+41.,Miriam Adelson & family,$30.9 B,77,casinos,United States
+42.,Lee Shau Kee,$30.3 B,94,real estate,Hong Kong
+43.,Tadashi Yanai & family,$30.3 B,73,fashion retail,Japan
+44.,Jeff Yass,$30.0 B,64,"trading, investments",United States
+45.,Colin Zheng Huang,$29.6 B,42,e-commerce,China
+46.,Klaus-Michael Kuehne,$28.9 B,85,shipping,Germany
+47.,Jim Simons,$28.1 B,84,hedge funds,United States
+48.,Low Tuck Kwong,$27.8 B,74,coal,Indonesia
+49.,Gina Rinehart,$27.7 B,68,mining,Australia
+50.,Andrey Melnichenko,$27.5 B,50,"coal, fertilizers",Russia
+51.,Harold Hamm & family,$27.0 B,77,oil & gas,United States
+52.,Vladimir Potanin,$26.4 B,61,metals,Russia
+53.,Vladimir Lisin,$25.4 B,66,"steel, transport",Russia
+54.,MacKenzie Scott,$25.3 B,52,Amazon,United States
+55.,Stephen Schwarzman,$24.8 B,75,investments,United States
+56.,Susanne Klatten,$24.7 B,60,"BMW, pharmaceuticals",Germany
+57.,Leonid Mikhelson,$24.4 B,67,"gas, chemicals",Russia
+58.,He Xiangjian & family,$23.7 B,80,home appliances,China
+59.,Shiv Nadar,$23.7 B,77,software services,India
+60.,Thomas Peterffy,$23.5 B,78,discount brokerage,United States
+61.,German Larrea Mota Velasco & family,$23.5 B,69,mining,Mexico
+62.,William Lei Ding,$23.3 B,51,online games,China
+63.,Wang Wei,$23.0 B,52,package delivery,China
+64.,Guillaume Pousaz,$23.0 B,41,fintech,Switzerland
+65.,Masayoshi Son,$22.9 B,65,"internet, telecom",Japan
+66.,Jack Ma,$22.7 B,58,e-commerce,China
+67.,R. Budi Hartono,$22.3 B,81,"banking, tobacco",Indonesia
+68.,Iris Fontbona & family,$21.9 B,79,mining,Chile
+69.,Stefan Quandt,$21.9 B,56,BMW,Germany
+70.,Lukas Walton,$21.8 B,36,Walmart,United States
+71.,Michael Hartono,$21.5 B,83,"banking, tobacco",Indonesia
+72.,Leonard Lauder,$21.4 B,89,Estee Lauder,United States
+73.,Takemitsu Takizaki,$21.2 B,77,sensors,Japan
+74.,Vagit Alekperov,$21.0 B,72,oil     ,Russia
+75.,Cyrus Poonawalla,$20.9 B,81,vaccines,India
+76.,Gennady Timchenko,$20.8 B,70,"oil, gas",Russia
+77.,Abigail Johnson,$20.2 B,61,Fidelity,United States
+78.,Wang Chuanfu,$20.1 B,56,"batteries, automobiles",China
+79.,Thomas Frist Jr & family,$19.8 B,84,hospitals,United States
+80.,Qin Yinglin,$19.4 B,57,pig breeding,China
+81.,Ray Dalio,$19.1 B,73,hedge funds,United States
+82.,Emmanuel Besnier,$18.7 B,52,cheese,France
+83.,Li Shufu,$18.5 B,59,automobiles,China
+84.,David Tepper,$18.5 B,65,hedge funds,United States
+85.,Alexey Mordashov,$18.4 B,57,"steel, investments",Russia
+86.,John Menard Jr,$18.2 B,82,home improvement stores,United States
+87.,Andrew Forrest,$18.1 B,61,mining,Australia
+88.,Radhakishan Damani,$17.8 B,67,"retail, investments",India
+89.,Theo Albrecht Jr & family,$17.7 B,71,"Aldi, Trader Joe's",Germany
+90.,Carl Icahn,$17.6 B,86,investments,United States
+91.,Steve Cohen,$17.5 B,66,hedge funds,United States
+92.,Peter Woo,$17.4 B,76,real estate,Hong Kong
+93.,Donald Bren,$17.4 B,90,real estate,United States
+94.,Changpeng Zhao,$17.4 B,45,cryptocurrency exchange,Canada
+95.,Daniel Gilbert,$16.8 B,60,Quicken Loans,United States
+96.,Savitri Jindal & family,$16.8 B,72,steel,India
+97.,Pang Kang,$16.8 B,66,soy sauce,China
+98.,Rupert Murdoch & family,$16.8 B,91,"newspapers, TV network",United States
+99.,Wang Wenyin,$16.7 B,54,"mining, copper products",China
+100.,Li Xiting,$16.5 B,71,medical devices,Singapore
