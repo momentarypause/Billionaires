@@ -1,3 +1,6 @@
+
+![360_F_57261675_u0WMxmIfm9dr4KBCQoW0eZgNMeikGZR0](https://user-images.githubusercontent.com/102555125/210870504-87393e88-8b77-451e-a57f-5cde6c77aa71.jpg)
+
 # Billionaires
 A look into the to top 100 billionaires world-wide compared to their net worth in 2019.  I am hoping to shed some light on billionaires who may have profited off the pandemic
 
